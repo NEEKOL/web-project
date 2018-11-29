@@ -1,0 +1,60 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../Images/mountains-background.jpg");
+  height:100%;
+}
+
+.header {
+  background: rgba(0, 0, 0, 0);
+  font-family: Nunito;
+  color: white;
+  margin: 0 0 0 0;
+  padding: 10px;
+  text-align: center;
+}
+
+hr {
+  padding: 0;
+  text-align: center;
+}
+
+.jumbotron {
+  margin: 0px;
+}
+
+.jumbotron h1 {
+  font-size: 100px;
+  margin: 5px 0 5px 0;
+  padding: 10px 0 10px 0;
+}
+
+.navigation {
+  background: rgba(0, 0, 0, 0);
+  padding: 0px;
+}
+
+.nav-item {
+  display: inline-block;
+  margin: 15px 0px 15px 0px;
+  padding: 5px 0 0 0;
+}
+
+.nav-item a {
+  text-decoration: none;
+  font-family: Nunito;
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  padding: 0 0 40px 0;
+  font-family: Nunito;
+  font-size: 60px;
+  colour: black;
+  text-align: center;
+}
+
+/* This is the end of our consistent template */

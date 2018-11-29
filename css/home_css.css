@@ -1,0 +1,51 @@
+body, html {
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#background_image {
+  background-image: url("../Images/mountains-background.jpg");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#overlay {
+    background-color: rgba(0,0,0,0.6);
+    width: 100%;
+    height:100%;
+    position: absolute;
+    z-index: 0;
+}
+
+header {
+  position: absolute;
+  width:100%;
+  height:100%;
+  z-index: 200;
+  font-family: Nunito;
+  color: white;
+
+}
+h1 {
+  font-size: 150px;
+  z-index:1050;
+}
+
+
+.header {
+  z-index;
+}
+
+div.text-center {
+    /* height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px; */
+    /* top: 50%; */
+    margin-top: 15%;
+  }

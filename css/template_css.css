@@ -58,3 +58,127 @@ h2 {
 }
 
 /* This is the end of our consistent template */
+
+.mental_health_image img {
+  margin: 0px 0px 0px 0px;
+  position: relative;
+    top: 25px;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+}
+.paragraph {
+  padding: 10px;
+  text-align: center;
+/*   font-family: */
+/*   font-size: */
+/*   colour: */
+}
+
+.first_paragraph p {
+  font-size: 25px;
+}
+
+ul {
+  list-style-image: url("../Images/brain-point.svg");
+}
+
+li {
+  font-size: 15px;
+}
+
+li span {
+  font-size: 15px;
+}
+
+.centred_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Support_Services p {
+  font-size: 15px;
+}
+
+.Revision_tips p {
+  font-size: 15px;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  /* width: 600px; */
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: auto;
+}
+.paragraph {
+  padding: 10px;
+  text-align: center;
+  font-family: Nunito;
+/*   font-size: */
+/*   colour: */
+}
+
+
+.first {
+  position: relative;
+}
+.second{
+  position: relative;
+}
+.third{
+  position: relative;
+  
+}
+.first img{
+	position: relative;
+  display: block;
+}
+
+.second img{
+  position: relative;
+  display: block;
+}
+.third img{
+  position: relative;
+  display: block;
+}
+
+.nav a {
+  background: red;
+  font: white;
+}
+
+.color-info {
+  border:1px solid:#000;
+}
+
+.important {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#about_blue {
+  background-color: #6495ed;
+}
+
+#about_blue ul li {
+  color: blue;
+}
+
+#about_yellow {
+  background-color: #FFEBCD;
+}
+
+#about_yellow ul li {
+  color: orange;
+}

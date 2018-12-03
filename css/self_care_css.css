@@ -23,46 +23,46 @@ h3 {
 .paragraph {
   padding: 10px;
   text-align: center;
-/*   font-family: */
+  font-family: Nunito;
 /*   font-size: */
 /*   colour: */
 }
 
 
-.first {
+/* .first {
   position: relative;
   top: 0px;
-  /* left: 80px; */
+  left: 80px;
 }
 .second{
   position: relative;
   top: 30px;
-  /* right:100px; */
+  right:100px;
 }
 
 .third{
   position: relative;
   top: 50px;
-  /* left: 100px; */
-}
+  left: 100px;
+} */
 .first img{
-	position: absolute;
-	bottom: 1000px;
+	/* position: absolute; */
+	/* bottom: 1000px; */
 	/* left:700px; */
-  height: 200px;
-  width:300px;
+  /* height: 200px;
+  width:300px; */
 }
 
 .second img{
-  position: absolute;
-	top: 40px;
+  /* position: absolute; */
+	/* top: 40px; */
 	/* right: 70px; */
-  height: 200px;
-  width:300px;
+  /* height: 200px;
+  width:300px; */
 }
 .third img{
-  position: absolute;
-	bottom: 10px;
+  /* position: absolute; */
+	/* bottom: 10px; */
 	/* left: 700px; */
   height: 200px;
   width:300px;

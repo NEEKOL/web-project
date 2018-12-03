@@ -3,6 +3,7 @@ body {
   /* margin: 20px; */
   background-image: url("../Images/mountains-background.jpg");
   height:100%;
+  font-family: Nunito;
 }
 
 .header {
